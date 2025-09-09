@@ -1,4 +1,4 @@
-Arafat Rahman  
+## Arafat Rahman  
 Email: opurahman@gmail.com | Phone: +90 544 904 72 20 | Web: arafatbd.net | LinkedIn: linkedin.com/in/arobd | GitHub: github.com/arobd  
 
 ---
