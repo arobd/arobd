@@ -20,10 +20,10 @@ Technology leader with 20+ years of experience in software engineering, cloud ar
 
 ## Professional Experience  
 
-**Technology Manager** – ITBZ Inc., Miami, USA (Hybrid) | 2025 – Present  
+**Technology Manager** – A USA-based technology company, Miami, USA (Hybrid) | 2025 – Present  
 - Lead two technical teams and align project goals with executive strategy.  
 - Oversee cloud infrastructure operations, optimizing cost and performance.  
-- Manage full project lifecycle: requirements, architecture, and delivery.  
+- Manage the full project lifecycle: requirements, architecture, and delivery.  
 
 **Technical Analyst** – REV Media Group, Kuala Lumpur, Malaysia (Hybrid) | 2021 – 2025  
 - Drove automation and modernization for Malaysia’s leading digital publisher (15M+ monthly users).  
