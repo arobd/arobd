@@ -1,6 +1,6 @@
 ## Arafat Rahman
 
-Software & Cloud Architect | DevOps Expert | GCP , AWS, Azure
+Software & Cloud Architect | DevOps Expert | GCP, AWS, Azure
 
 Web: arafatbd.net | LinkedIn: linkedin.com/in/arobd | GitHub: github.com/arobd
 
