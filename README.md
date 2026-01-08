@@ -7,11 +7,18 @@ My career spans end-to-end technology leadership: from cloud engineering and Dev
 ⭐ Core Strengths & Expertise ⭐
 
 ✅ Cloud Engineering & Migration: AWS, GCP, Azure, on-prem to cloud migrations, containerization, infrastructure automation.
+
 ✅ DevOps & Automation: CI/CD pipelines, monitoring, logging, performance tuning, infrastructure-as-code.
+
 ✅ Solution Architecture: Scalable systems, microservices, distributed architecture, API design.
+
 ✅ Full-Stack Development: Node.js, PHP, Python, JavaScript/React, Next.js, microservices, REST, GraphQL.
+
 ✅ Agile Transformation: Coaching teams, implementing agile processes, improving delivery workflows.
+
 ✅ R&D-Driven Development: Prototyping, introducing new technologies, guiding engineering innovation.
+
 ✅ AI Adoption & Integration: Leveraging AI tools, automation workflows, and AI-powered features for products.
+
 
 I’ve successfully delivered projects across diverse sectors, including highly scalable e-commerce platforms, content-heavy media systems, education and LMS solutions, health & wellness apps, financial systems, insurance management tools, ad-tech platforms, and affiliate marketing engines. If you’re looking for a seasoned technology leader who can architect your system, migrate your infrastructure, build your application, lead your DevOps transformation, or guide your team through innovation and AI adoption—I’m here to help.
