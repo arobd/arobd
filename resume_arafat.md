@@ -20,10 +20,14 @@ systems, and delivered high-impact platforms for both startups and large organiz
 
 ## Core Competencies
 
-- **Leadership & Strategy**: Team management, Agile methodologies, cross-functional collaboration, Cloud migration, Cost optimization, BCP-DR
-- **Cloud & DevOps**: AWS, GCP, Azure, Kubernetes, Terraform, OpenTofu, Ansible, Pulumi, CI/CD, GitHub Actins, GCP CloudBuild, AWS CloudFormation, AWS CDK, Azure DevOps, Docker,
-- **Software Engineering**: PHP, JavaScript (Node.js, React), Python, Laravel, CodeIgniter, Java (Spring Boot), Shell scripting
-- **Databases, caching & logging**: MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, Varnish, Memcached, ELK, Prometheus, Loki, Grafana
+- **Leadership & Strategy**: Team management, Agile methodologies, cross-functional collaboration, Cloud migration, Cost
+  optimization, BCP-DR
+- **Cloud & DevOps**: AWS, GCP, Azure, Kubernetes, Terraform, OpenTofu, Ansible, Pulumi, CI/CD, GitHub Actins, GCP
+  CloudBuild, AWS CloudFormation, AWS CDK, Azure DevOps, Docker,
+- **Software Engineering**: PHP, JavaScript (Node.js, React), Python, Laravel, CodeIgniter, Java (Spring Boot), Shell
+  scripting
+- **Databases, caching & logging**: MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, Varnish, Memcached, ELK,
+  Prometheus, Loki, Grafana
 - **Infrastructure**: Nginx, HAProxy, Redis, Docker, Kubernetes
 - **Project Tools**: JIRA, Confluence, ClickUp, Trello, Notion
 
